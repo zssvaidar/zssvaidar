@@ -1,5 +1,5 @@
-###Welcome to My GitHub Profile!
-##About Me
+### Welcome to My GitHub Profile!
+## About Me
 I am a passionate Node.js backend developer with a background in python analytics and PHP project engineering. My expertise lies in developing microservices and managing MySQL databases to ensure seamless data handling within projects.
 
 Skills

@@ -10,3 +10,6 @@ Version Control: Git
 Web Technologies: HTML, CSS, vanilla js, vuejs, handlebars  
 Development Tools: VS Code, Postman, MySql Workbeanch  
 Operating Systems: Linux  
+
+Special note  
+familiar with docker, java, kotlin, flutter, some react, websocket, workers

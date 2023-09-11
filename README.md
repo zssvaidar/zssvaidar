@@ -1,8 +1,8 @@
-### Welcome to My GitHub Profile!
-## Background
+#### Welcome to My GitHub Profile!
+### Background
 フルスタック開発者、エンジニア  
 コンピュータ工学卒業生
-## About Me
+### About Me
 I am a passionate Node.js backend developer with a background in python analytics and PHP project engineering. My expertise lies in developing microservices and managing MySQL databases to ensure seamless data handling within projects.
 
 Skills  

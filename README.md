@@ -1,16 +1,12 @@
-### Hi there 👋
+###Welcome to My GitHub Profile!
+##About Me
+I am a passionate Node.js backend developer with a background in python analytics and PHP project engineering. My expertise lies in developing microservices and managing MySQL databases to ensure seamless data handling within projects.
 
-<!--
-**zssvaidar/zssvaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Programming Languages: JavaScript (Node.js), PHP, python, mobile
+Database Management: MySQL, knex
+Microservices & API Development
+Version Control: Git
+Web Technologies: HTML, CSS, vanilla js, vuejs, handlebars
+Development Tools: VS Code, Postman, MySql Workbeanch
+Operating Systems: Linux

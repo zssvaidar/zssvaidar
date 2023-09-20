@@ -10,7 +10,7 @@ Programming Languages: JavaScript (Node.js), PHP, python, mobile
 Database Management: MySQL, knex  
 Microservices & API Development  
 Version Control: Git  
-Web Technologies: HTML, CSS, vanilla js, vuejs, handlebars  
+Web Technologies: HTML, CSS, vanilla js, vuejs, handlebars, express, bun js  
 Development Tools: VS Code, Postman, MySql Workbeanch  
 Operating Systems: Linux  
 

@@ -12,7 +12,8 @@ Microservices & API Development
 Version Control: Git  
 Web Technologies: HTML, CSS, vanilla js, vuejs, handlebars, express, bun js  
 Development Tools: VS Code, Postman, MySql Workbeanch  
-Operating Systems: Linux  
+Operating Systems: Linux
+Area of interest: microservices, enginerring, mobile, server scripting, project configuration/re-configuration, full-stack
 
 Special note  
 familiar with docker, java, kotlin, flutter, some react, websocket, workers
